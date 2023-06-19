@@ -26,3 +26,4 @@ Choose PATCH from the dropdown, type in
 http://localhost:3000/api/v3/app/events/:id in the url section.
 Choose body -> raw -> json and type in the json for the document.
 Hit send.
+
